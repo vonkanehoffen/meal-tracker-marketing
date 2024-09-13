@@ -1,3 +1,5 @@
+/* eslint-disable react/no-unescaped-entities */
+
 export default function PrivacyPolicyPage() {
   return (
     <main className="container p-10">
