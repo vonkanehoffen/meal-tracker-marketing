@@ -1,0 +1,159 @@
+export default function PrivacyPolicyPage() {
+  return (
+    <main className="container p-10">
+      <div className="flex flex-col items-center justify-center gap-4">
+        <h1>Terms of Service</h1>
+        <p>
+          <strong>Effective Date:</strong> 12 September 2024
+        </p>
+        <p>
+          Welcome to Broccoli Meal Tracker ("App"). These Terms of Service
+          ("Terms") govern your use of the App, which is operated by [Your
+          Company Name] ("we," "us," "our"). By using or accessing the App, you
+          agree to be bound by these Terms. If you do not agree with any part of
+          these Terms, please do not use the App.
+        </p>
+
+        <h2 className="font-bold">1. App Description</h2>
+        <p>
+          Broccoli Meal Tracker is an AI-powered meal tracking application that
+          estimates the nutritional content of meals. The App is available via a
+          free or paid subscription through app stores (Apple App Store and
+          Google Play Store). Users can sign in using Apple or Google
+          authentication.
+        </p>
+
+        <h2 className="font-bold">
+          2. Account Registration and Authentication
+        </h2>
+        <p>
+          By creating an account using Apple or Google, you agree to the terms
+          and policies of these platforms. You are responsible for maintaining
+          the confidentiality of your login credentials and for all activities
+          that occur under your account.
+        </p>
+
+        <h2 className="font-bold">3. Paid Subscription and Billing</h2>
+        <p>
+          The App offers additional premium features through a paid
+          subscription. Payment for subscriptions is processed via the app
+          stores where the App is available. By subscribing, you agree to the
+          terms of the app store, including their refund policies.
+        </p>
+
+        <h2 className="font-bold">4. Use of AI for Nutrition Estimates</h2>
+        <p>
+          Broccoli Meal Tracker utilizes AI technology to estimate the
+          nutritional content of meals. The estimates provided by the AI are
+          based on various factors, including the images and data you submit.
+        </p>
+        <p>
+          <strong>Important Disclaimer:</strong>
+        </p>
+        <ul>
+          <li>
+            The nutritional estimates provided by the App are approximations and
+            should not be considered accurate or as a substitute for
+            professional dietary advice.
+          </li>
+          <li>
+            We are not responsible for any inaccuracies in the AI-generated
+            nutritional data, and you acknowledge that the App may not capture
+            the full range of ingredients, portion sizes, or nutritional content
+            of meals.
+          </li>
+        </ul>
+
+        <h2 className="font-bold">5. Health Disclaimer</h2>
+        <p>
+          The App is designed for general meal tracking purposes and is not
+          intended to diagnose, treat, cure, or prevent any disease. The App
+          should not be relied upon for medical or health advice. Always consult
+          with a healthcare professional before making significant changes to
+          your diet or health routine.
+        </p>
+
+        <h2 className="font-bold">6. Limitation of Liability</h2>
+        <p>To the maximum extent permitted by law, we are not liable for:</p>
+        <ul>
+          <li>
+            Any direct, indirect, incidental, or consequential damages resulting
+            from your use or inability to use the App.
+          </li>
+          <li>
+            Any inaccuracies or omissions in the nutritional data provided by
+            the App.
+          </li>
+          <li>
+            Any decisions you make based on the information provided by the App,
+            including dietary, fitness, or medical decisions.
+          </li>
+        </ul>
+        <p>
+          You agree to use the App at your own risk and understand that
+          nutritional data provided by AI can vary widely based on the quality
+          and completeness of the input data.
+        </p>
+
+        <h2 className="font-bold">7. User Responsibilities</h2>
+        <p>You agree not to:</p>
+        <ul>
+          <li>
+            Use the App in any manner that could damage, disable, overburden, or
+            impair any of our servers or interfere with any other party's use of
+            the App.
+          </li>
+          <li>Upload or submit any false or misleading information or data.</li>
+          <li>
+            Attempt to gain unauthorized access to any part of the App or its
+            systems.
+          </li>
+        </ul>
+
+        <h2 className="font-bold">8. Modifications to the App and Terms</h2>
+        <p>
+          We reserve the right to modify or discontinue the App (or any part of
+          it) at any time, with or without notice. We also reserve the right to
+          update these Terms from time to time. Any changes to these Terms will
+          be effective immediately upon posting in the App.
+        </p>
+
+        <h2 className="font-bold">9. Termination</h2>
+        <p>
+          We may terminate or suspend your account at any time for violating
+          these Terms or for any other reason at our sole discretion.
+        </p>
+
+        <h2 className="font-bold">10. Privacy</h2>
+        <p>
+          Your use of the App is also governed by our{" "}
+          <a href="privacy-policy">Privacy Policy</a>, which outlines how we
+          collect, use, and protect your personal information.
+        </p>
+
+        <h2 className="font-bold">11. Governing Law</h2>
+        <p>
+          These Terms are governed by and construed in accordance with the laws
+          of the United Kingdom, without regard to its conflict of laws
+          principles.
+        </p>
+
+        <h2 className="font-bold">12. Contact Information</h2>
+        <p>
+          If you have any questions or concerns about these Terms, please
+          contact us at{" "}
+          <a href="mailto:appstore@mealtracker.app">appstore@mealtracker.app</a>
+          .
+        </p>
+
+        <p>
+          <strong>
+            By using the Broccoli Meal Tracker app, you acknowledge that you
+            have read and understood these Terms of Service and agree to be
+            bound by them.
+          </strong>
+        </p>
+      </div>
+    </main>
+  );
+}
