@@ -9,16 +9,16 @@ export default function PrivacyPolicyPage() {
           <strong>Effective Date:</strong> 12 September 2024
         </p>
         <p>
-          Welcome to Broccoli Meal Tracker ("App"). These Terms of Service
-          ("Terms") govern your use of the App, which is operated by [Your
-          Company Name] ("we," "us," "our"). By using or accessing the App, you
-          agree to be bound by these Terms. If you do not agree with any part of
-          these Terms, please do not use the App.
+          Welcome to What The Plate ("App"). These Terms of Service ("Terms")
+          govern your use of the App, which is operated by [Your Company Name]
+          ("we," "us," "our"). By using or accessing the App, you agree to be
+          bound by these Terms. If you do not agree with any part of these
+          Terms, please do not use the App.
         </p>
 
         <h2 className="font-bold">1. App Description</h2>
         <p>
-          Broccoli Meal Tracker is an AI-powered meal tracking application that
+          What The Plate is an AI-powered meal tracking application that
           estimates the nutritional content of meals. The App is available via a
           free or paid subscription through app stores (Apple App Store and
           Google Play Store). Users can sign in using Apple or Google
@@ -45,9 +45,9 @@ export default function PrivacyPolicyPage() {
 
         <h2 className="font-bold">4. Use of AI for Nutrition Estimates</h2>
         <p>
-          Broccoli Meal Tracker utilizes AI technology to estimate the
-          nutritional content of meals. The estimates provided by the AI are
-          based on various factors, including the images and data you submit.
+          What The Plate utilizes AI technology to estimate the nutritional
+          content of meals. The estimates provided by the AI are based on
+          various factors, including the images and data you submit.
         </p>
         <p>
           <strong>Important Disclaimer:</strong>
@@ -150,9 +150,8 @@ export default function PrivacyPolicyPage() {
 
         <p>
           <strong>
-            By using the Broccoli Meal Tracker app, you acknowledge that you
-            have read and understood these Terms of Service and agree to be
-            bound by them.
+            By using the What The Plate app, you acknowledge that you have read
+            and understood these Terms of Service and agree to be bound by them.
           </strong>
         </p>
       </div>

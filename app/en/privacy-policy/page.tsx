@@ -4,13 +4,13 @@ export default function PrivacyPolicyPage() {
   return (
     <main className="container p-16">
       <div className="flex flex-col items-center justify-center gap-4">
-        <h1 className="font-bold">Privacy Policy for Broccoli Meal Tracker</h1>
+        <h1 className="font-bold">Privacy Policy for What The Plate</h1>
         <p>Last updated: 9th July 2024</p>
         <p>
-          At Broccoli, accessible from app stores, one of our main priorities is
-          the privacy of our users. This Privacy Policy document contains types
-          of information that is collected and recorded by AI Meal Tracker and
-          how we use it.
+          At What The Plate, accessible from app stores, one of our main
+          priorities is the privacy of our users. This Privacy Policy document
+          contains types of information that is collected and recorded by AI
+          Meal Tracker and how we use it.
         </p>
         <p>
           If you have additional questions or require more information about our
@@ -35,18 +35,18 @@ export default function PrivacyPolicyPage() {
         </p>
         <h2 className="font-bold">Log Files</h2>
         <p>
-          Broccoli follows a standard procedure of using log files. These files
-          log visitors when they visit websites. All hosting companies do this
-          and a part of hosting services' analytics. The information collected
-          by log files include internet protocol (IP) addresses, browser type,
-          Internet Service Provider (ISP), date and time stamp, referring/exit
-          pages, and possibly the number of clicks. These are not linked to any
-          information that is personally identifiable.
+          What The Plate follows a standard procedure of using log files. These
+          files log visitors when they visit websites. All hosting companies do
+          this and a part of hosting services' analytics. The information
+          collected by log files include internet protocol (IP) addresses,
+          browser type, Internet Service Provider (ISP), date and time stamp,
+          referring/exit pages, and possibly the number of clicks. These are not
+          linked to any information that is personally identifiable.
         </p>
         <h2 className="font-bold">Google and Apple Sign In</h2>
         <p>
-          Broccoli offers you the option to sign in using your Google or Apple
-          account. We will receive your name and email address from these
+          What The Plate offers you the option to sign in using your Google or
+          Apple account. We will receive your name and email address from these
           providers, but we do not receive or store your passwords.
         </p>
         <h2 className="font-bold">Children's Information</h2>
@@ -56,7 +56,7 @@ export default function PrivacyPolicyPage() {
           participate in, and/or monitor and guide their online activity.
         </p>
         <p>
-          Broccoli does not knowingly collect any Personal Identifiable
+          What The Plate does not knowingly collect any Personal Identifiable
           Information from children under the age of 13. If you think that your
           child provided this kind of information on our website, we strongly
           encourage you to contact us immediately and we will do our best
