@@ -8,8 +8,8 @@ import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://astroship.web3templates.com",
+  site: "https://www.whattheplate.app/",
   integrations: [tailwind(), mdx(), sitemap(), icon()],
   output: "server",
-  adapter: vercel()
+  adapter: vercel(),
 });
